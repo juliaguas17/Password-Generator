@@ -1,11 +1,11 @@
 # Week 3 Challenge: Password Generator
 
-USER STORY:
+# USER STORY:
 AS AN employee with access to sensitive data,
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 
-ACCEPTANCE CRITERIA:
+# ACCEPTANCE CRITERIA:
 GIVEN I need a new, secure password...
 WHEN I click the button to generate a password,
 THEN I am presented with a series of prompts for password criteria.
@@ -27,4 +27,5 @@ THEN the password is either displayed in an alert or written to the page.
 
 
 Below is a screenshot from my deployed application, including the console log.
+
 ![image](https://user-images.githubusercontent.com/119539738/209235001-8d200401-64a1-43e4-93ae-960db1875c7f.png)
